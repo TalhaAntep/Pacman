@@ -1,0 +1,8 @@
+C:\Users\Talha\source\repos\pacman\aa\bin\Debug\aa.exe.config
+C:\Users\Talha\source\repos\pacman\aa\bin\Debug\aa.exe
+C:\Users\Talha\source\repos\pacman\aa\bin\Debug\aa.pdb
+C:\Users\Talha\source\repos\pacman\aa\obj\Debug\aa.csproj.AssemblyReference.cache
+C:\Users\Talha\source\repos\pacman\aa\obj\Debug\aa.csproj.SuggestedBindingRedirects.cache
+C:\Users\Talha\source\repos\pacman\aa\obj\Debug\aa.csproj.CoreCompileInputs.cache
+C:\Users\Talha\source\repos\pacman\aa\obj\Debug\aa.exe
+C:\Users\Talha\source\repos\pacman\aa\obj\Debug\aa.pdb
